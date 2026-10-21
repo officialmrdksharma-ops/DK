@@ -27,8 +27,8 @@ from telebot.types import (
 # BOT CONFIG
 # ============================================================
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8823229372:AAGy2B_YXXE74JbZJGhhUFM35Mdw0wPVQqc").strip()
-OWNER_ID = int(os.getenv("OWNER_ID", "8675132585"))
+BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
+OWNER_ID = int(os.getenv("OWNER_ID", "8753914631"))
 
 STORAGE_DIR = "user_files"
 UPLOAD_DIR = os.path.join(STORAGE_DIR, "uplo556ads")
