@@ -1,4 +1,4 @@
-#CREDIT - @CXXWIO
+#CREDIT - @Mrdk_Sharma_07
 #MAIN CHANNEL - DK HOSTING BOT #
 
 import os
